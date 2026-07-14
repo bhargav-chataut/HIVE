@@ -2,6 +2,12 @@
 
 HIVE is an automated signal aggregator designed to identify cross-platform arbitrage opportunities in decentralized prediction markets. It automates the tedious, manual search for price discrepancies across platforms like Kalshi and Polymarket.
 
+### Business Problem:
+The Alpha-Discovery Problem: Markets are inefficient because human attention is finite. While Kalshi and Polymarket reflect the same real-world events, they rarely reach consensus instantly. We’re automating the tedious, high-latency search for cross-platform arbitrage opportunities, effectively building a 'Low-Latency Signal Aggregator' that turns fragmented market noise into actionable Alpha.
+
+(Markets do not agree from time to time. One market can have the trade valued higher. This creates opportunity for traders. This is used by every trader {if you really think about it} to earn profit. We are trying to find similar trades but in the internet. Information in markets is fragmented. Most people do not realize such opportunities because they are not looking for it, or the search is so tidious and not worth the effort. But, what if we automate the tidious search for arbitrage opportunities.)
+
+
 ### The Objective
 Decentralized markets are fragmented. They often trade the same events at different prices, but finding these "Alpha" opportunities manually is inefficient and high-latency. HIVE bridges these platforms by normalizing event data and identifying price spreads in real-time.
 
