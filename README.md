@@ -22,7 +22,7 @@ HIVE uses a **Two-Tower Alignment Pipeline**:
 *   **Infrastructure (Planned):** Containerized via Docker; scalable via Kubernetes for high-uptime signal aggregation.
 
 ### Getting Started
-1.  **Clone the repo:** `git clone https://github.com/[YOUR-USERNAME]/HIVE.git`
+1.  **Clone the repo:** `git clone https://github.com/bhargav-chataut/HIVE`
 2.  **Install requirements:** `pip install -r requirements.txt`
 3.  **Configure API keys:** Set your environment variables for platform access.
 
